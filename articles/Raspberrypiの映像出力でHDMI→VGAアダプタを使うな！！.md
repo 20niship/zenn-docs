@@ -1,7 +1,7 @@
 ---
 title: "Raspberry piの映像出力でHDMI→VGAアダプタを使うな！！"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

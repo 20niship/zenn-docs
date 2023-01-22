@@ -1,7 +1,7 @@
 ---
 title: "【Ubuntu】MongoDBをインストール + Node.jsでDB操作"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

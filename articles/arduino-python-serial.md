@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】Arduino と python でシリアル通信"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

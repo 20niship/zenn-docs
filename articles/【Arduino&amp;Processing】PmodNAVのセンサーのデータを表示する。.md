@@ -1,7 +1,7 @@
 ---
 title: "【Arduino &amp; Processing】PmodNAVのセンサーのデータを表示する。"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

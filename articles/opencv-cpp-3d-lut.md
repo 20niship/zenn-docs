@@ -1,7 +1,7 @@
 ---
 title: "【OpenCV/C++】画像に3DLUTをあてる（適応させる）プログラム！（立方体補正）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

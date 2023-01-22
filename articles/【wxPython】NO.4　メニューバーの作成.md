@@ -1,7 +1,7 @@
 ---
 title: "【wxPython】NO.4　メニューバーの作成"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

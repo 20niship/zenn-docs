@@ -1,7 +1,7 @@
 ---
 title: "【Python】PyTubeでYouTubeから動画を無料ダウンロード"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

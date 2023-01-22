@@ -1,7 +1,7 @@
 ---
 title: "Python+OpenCVで画像処理 勉強会第一回（物体認識、背景削除）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

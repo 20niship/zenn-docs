@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】Arduinoでサーボモーターを制御する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

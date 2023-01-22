@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio で Verlilog HDL がしたい！"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

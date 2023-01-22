@@ -1,7 +1,7 @@
 ---
 title: "【C++】Visual Studio 2019 に OpenSiv3D を導入する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【C++/OpenCV】動画のプレイヤーを作成する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

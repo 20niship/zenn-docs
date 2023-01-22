@@ -1,7 +1,7 @@
 ---
 title: "GPUの構造、仕組みなど"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

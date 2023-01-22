@@ -1,7 +1,7 @@
 ---
 title: "【OpenCV/C++】GrabCutで対話的な前景抽出を行う（AEのロトブラシの画像版）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

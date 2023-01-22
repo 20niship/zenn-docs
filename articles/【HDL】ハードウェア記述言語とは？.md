@@ -1,7 +1,7 @@
 ---
 title: "【HDL】ハードウェア記述言語とは？"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

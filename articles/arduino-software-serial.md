@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】SoftwareSerial を使って、複数のデバイスとシリアル通信を行う"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

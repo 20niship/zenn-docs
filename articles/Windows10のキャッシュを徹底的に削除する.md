@@ -1,7 +1,7 @@
 ---
 title: "Windows10のキャッシュを徹底的に削除する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

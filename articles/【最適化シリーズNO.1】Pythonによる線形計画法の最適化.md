@@ -1,7 +1,7 @@
 ---
 title: "【最適化シリーズ NO.1】Pythonによる線形計画法の最適化"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Community でHTML編集"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

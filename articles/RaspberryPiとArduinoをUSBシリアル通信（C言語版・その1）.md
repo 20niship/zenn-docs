@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi と Arduino をUSBシリアル通信（C言語版・その1）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

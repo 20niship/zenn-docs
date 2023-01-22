@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry pi】サーボモータをPWM制御する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【xBee】ｘBeeを使ってArduino二台を無線シリアル通信"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

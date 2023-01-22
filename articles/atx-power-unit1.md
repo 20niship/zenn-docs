@@ -1,7 +1,7 @@
 ---
 title: "ATX電源（デスクトップPCの電源ユニット）を電子工作用の電源モジュールにする"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

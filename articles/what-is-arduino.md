@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】Arduinoとは？"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

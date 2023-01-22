@@ -1,7 +1,7 @@
 ---
 title: "【機械学習】Irisのデータセットを使ってみる"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

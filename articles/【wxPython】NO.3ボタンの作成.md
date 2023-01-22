@@ -1,7 +1,7 @@
 ---
 title: "【wxPython】NO.3 ボタンの作成"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

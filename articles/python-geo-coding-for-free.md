@@ -1,7 +1,7 @@
 ---
 title: "【Python】無料でジオコーディング(住所→緯度経度etc.)"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

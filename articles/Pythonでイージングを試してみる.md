@@ -1,7 +1,7 @@
 ---
 title: "Pythonでイージングを試してみる"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

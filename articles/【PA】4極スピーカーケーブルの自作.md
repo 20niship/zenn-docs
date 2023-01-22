@@ -1,7 +1,7 @@
 ---
 title: "【PA】4極スピーカーケーブルの自作"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

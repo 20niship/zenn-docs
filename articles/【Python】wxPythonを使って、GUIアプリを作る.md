@@ -1,7 +1,7 @@
 ---
 title: "【Python】wxPython を使って、GUIアプリを作る"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "M5Stack Fire等開封→Arduino IDE環境構築→Hello World！"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

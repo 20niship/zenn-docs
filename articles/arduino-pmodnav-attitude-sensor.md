@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】PmodNAVをつかって加速度などを読み取る"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

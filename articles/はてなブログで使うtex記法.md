@@ -1,7 +1,7 @@
 ---
 title: "はてなブログで使うtex記法"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

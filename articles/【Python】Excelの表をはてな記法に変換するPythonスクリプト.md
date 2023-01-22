@@ -1,7 +1,7 @@
 ---
 title: "【Python】Excelの表をはてな記法に変換するPythonスクリプト"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

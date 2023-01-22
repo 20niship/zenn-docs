@@ -1,7 +1,7 @@
 ---
 title: "【Processing】REAPERの起動画面を再現？"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

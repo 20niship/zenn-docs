@@ -1,7 +1,7 @@
 ---
 title: "【C++】Tips集"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

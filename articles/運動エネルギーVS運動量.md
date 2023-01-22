@@ -1,7 +1,7 @@
 ---
 title: "運動エネルギー VS 運動量"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

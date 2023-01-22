@@ -1,7 +1,7 @@
 ---
 title: "【Node.js + Express】WebSocketを使ってみる( + 全クライアントに一斉送信)"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【REAPER】音楽編集でよく使う REAPER コマンド集"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

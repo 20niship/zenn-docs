@@ -1,7 +1,7 @@
 ---
 title: "【Python】PythonでWeb上のファイルを操作（ダウンロード）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【PA】XLRケーブルの作り方"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

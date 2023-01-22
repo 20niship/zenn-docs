@@ -1,7 +1,7 @@
 ---
 title: "【Python】MatplotlibだけでグラフをGIFアニメーションにして保存"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry Pi】WiringPiを使ってC言語でサーボモーター制御"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】LED点滅（Lチカ）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

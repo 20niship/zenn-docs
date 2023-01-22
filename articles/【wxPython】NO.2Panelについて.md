@@ -1,7 +1,7 @@
 ---
 title: "【wxPython】NO.2   Panel について"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

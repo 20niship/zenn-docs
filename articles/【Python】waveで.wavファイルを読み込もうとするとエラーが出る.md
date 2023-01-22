@@ -1,7 +1,7 @@
 ---
 title: "【Python】waveで.wavファイルを読み込もうとするとエラーが出る"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

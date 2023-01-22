@@ -1,7 +1,7 @@
 ---
 title: "【PA】PA・音響まとめ"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

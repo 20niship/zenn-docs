@@ -1,7 +1,7 @@
 ---
 title: "【AviUtl】AviUtlでGIFアニメーションでエンコードする方法"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "【Arduino】ブラシレスモーターが回ってモーター..."
-emoji: ""
-type: ""
-topics: []
+emoji: "🤖"
+type: "tech"
+topics: ["arduino"]
 published: false
 ---
 

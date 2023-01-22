@@ -1,7 +1,7 @@
 ---
 title: "【宣伝】~ NHKロボコン2021終了 ~ RoboTech紹介PVを製作しました"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

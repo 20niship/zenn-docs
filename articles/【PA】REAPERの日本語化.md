@@ -1,7 +1,7 @@
 ---
 title: "【PA】REAPERの日本語化"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

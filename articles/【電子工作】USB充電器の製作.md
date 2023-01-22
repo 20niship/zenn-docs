@@ -1,7 +1,7 @@
 ---
 title: "【電子工作】USB充電器の製作"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

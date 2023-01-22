@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】シリアル通信にかかる時間"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

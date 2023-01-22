@@ -1,7 +1,7 @@
 ---
 title: "【C++】OpenGLで描画したものをOpenCVのMatに変換"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

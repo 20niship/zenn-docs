@@ -1,7 +1,7 @@
 ---
 title: "【Python】numpyで音声をフーリエ変換し、結果を画像として表示"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

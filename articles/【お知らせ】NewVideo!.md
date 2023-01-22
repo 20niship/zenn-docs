@@ -1,7 +1,7 @@
 ---
 title: "【お知らせ】 New Video!"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

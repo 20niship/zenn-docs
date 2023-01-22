@@ -1,7 +1,7 @@
 ---
 title: "【OpenCV/C++】OpenCVでトーンカーブっぽいものを実装する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】 Arduino とラジコンのコントローラー（プロポ）を接続する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

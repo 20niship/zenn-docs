@@ -1,7 +1,7 @@
 ---
 title: "【Python】PyOpenCVで図形描画"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

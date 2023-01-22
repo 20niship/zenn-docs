@@ -1,7 +1,7 @@
 ---
 title: "【xBee】xBee S2Cシリーズの X-CTU の設定"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

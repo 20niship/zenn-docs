@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry pi】WiringPiを使ってC言語でGPIO操作"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

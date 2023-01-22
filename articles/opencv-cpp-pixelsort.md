@@ -1,7 +1,7 @@
 ---
 title: "【C++/OpenCV】OpenCVでピクセルソート！"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

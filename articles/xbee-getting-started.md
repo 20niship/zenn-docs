@@ -1,7 +1,7 @@
 ---
 title: "【ZigBee】NO.2　ソフトウェアのインストール"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【SQL】SQLのすすめ（Pythonのsqlite3使用）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

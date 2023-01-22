@@ -1,7 +1,7 @@
 ---
 title: "【OS】OSの中身"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

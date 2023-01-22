@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry pi】PWM出力でLEDの明るさを制御する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Python】Python3系とPython2系の違い"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

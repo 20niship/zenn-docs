@@ -1,7 +1,7 @@
 ---
 title: "【Python】STLファイルを作成・保存する（numpy-stl）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

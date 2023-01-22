@@ -1,7 +1,7 @@
 ---
 title: "PID制御とは"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

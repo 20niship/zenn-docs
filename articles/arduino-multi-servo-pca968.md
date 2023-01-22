@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】PCA9685でサーボモーターを動かす"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

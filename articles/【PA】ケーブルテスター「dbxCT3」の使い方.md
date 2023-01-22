@@ -1,7 +1,7 @@
 ---
 title: "【PA】ケーブルテスター「dbx CT3」の使い方"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

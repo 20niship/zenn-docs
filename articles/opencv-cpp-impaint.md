@@ -1,7 +1,7 @@
 ---
 title: "【OpenCV/C++】画像の一部分を修復する（cv::inpaint)"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

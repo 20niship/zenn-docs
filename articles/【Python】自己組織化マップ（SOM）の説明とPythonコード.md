@@ -1,7 +1,7 @@
 ---
 title: "【Python】自己組織化マップ（SOM）の説明とPythonコード"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

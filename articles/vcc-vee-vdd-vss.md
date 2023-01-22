@@ -1,7 +1,7 @@
 ---
 title: "vcc-vee-vdd-vss"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

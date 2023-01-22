@@ -1,7 +1,7 @@
 ---
 title: "YouTubeに有料の素材を使った動画をアップする（Envato Market / audiojungle）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

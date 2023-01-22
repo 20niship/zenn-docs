@@ -1,7 +1,7 @@
 ---
 title: "【Arduino &amp; PmodNAV】加速度とジャイロから、角度を算出するプログラム"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

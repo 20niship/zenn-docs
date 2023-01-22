@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】Arduino Due を使ってみた。"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: ["arduino"]
 published: false
 ---

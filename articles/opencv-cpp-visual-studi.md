@@ -1,7 +1,7 @@
 ---
 title: "【C++ OpenCV】VisualStudio 2015で、C++ &amp; OpenCVの環境構築"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

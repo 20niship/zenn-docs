@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry pi】C言語でもブラシレスモーターが回ってモーター"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

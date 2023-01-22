@@ -1,7 +1,7 @@
 ---
 title: "【Python】フライトレーダーのデータをPythonで読み取りExcelに出力"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

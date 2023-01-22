@@ -1,7 +1,7 @@
 ---
 title: "「HDMI VGA 変換 アダプタ 」を使ってみた"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

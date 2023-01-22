@@ -1,7 +1,7 @@
 ---
 title: "【C++】文字テクスチャ"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Ubuntu】React Nativeの環境構築 →WebとAndroidでHello World!"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

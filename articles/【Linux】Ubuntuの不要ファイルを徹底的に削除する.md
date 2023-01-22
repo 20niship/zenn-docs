@@ -1,7 +1,7 @@
 ---
 title: "【Linux】Ubuntuの不要ファイルを徹底的に削除する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

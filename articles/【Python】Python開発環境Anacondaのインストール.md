@@ -1,7 +1,7 @@
 ---
 title: "【Python】Python開発環境Anacondaのインストール"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

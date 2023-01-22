@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Community 2019 のインストール"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

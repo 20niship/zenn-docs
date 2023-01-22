@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry pi】ブラシレスモーターが回ってモーター（第二段）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Python】Pythonの最強無償IDE、Pycharmのインストール"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

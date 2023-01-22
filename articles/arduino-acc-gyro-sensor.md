@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】MPU6050とI2C通信して、加速度とジャイロのデータを取得"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

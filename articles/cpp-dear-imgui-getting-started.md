@@ -1,7 +1,7 @@
 ---
 title: "【C++】Dear ImGui を導入してみた（Visual Studio 2015)"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

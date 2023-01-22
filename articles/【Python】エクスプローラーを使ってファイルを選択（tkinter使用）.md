@@ -1,7 +1,7 @@
 ---
 title: "【Python】エクスプローラーを使ってファイルを選択（tkinter使用）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

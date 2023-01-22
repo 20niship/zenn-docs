@@ -1,7 +1,7 @@
 ---
 title: "【PA】スピーカーフォンケーブル（2極）の製作"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】シリアル通信で複数のデータをやり取りする"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

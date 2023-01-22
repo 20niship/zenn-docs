@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】ジョイスティックを使う"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】MPU-6050を使って姿勢角を算出　（フィルターなし）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

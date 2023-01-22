@@ -1,7 +1,7 @@
 ---
 title: "【C++ dear ImGui】ドッキングパネルを作る"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

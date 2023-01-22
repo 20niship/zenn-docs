@@ -1,7 +1,7 @@
 ---
 title: "【機械学習】NO.1 Pythonで多項式フィッティングと過学習"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

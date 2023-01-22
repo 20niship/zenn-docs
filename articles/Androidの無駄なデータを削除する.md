@@ -1,7 +1,7 @@
 ---
 title: "Android の無駄なデータを削除する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

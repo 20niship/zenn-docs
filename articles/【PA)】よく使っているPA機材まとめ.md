@@ -1,7 +1,7 @@
 ---
 title: "【PA)】よく使っているPA機材まとめ"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】アナログ出力（PWM）とは？"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

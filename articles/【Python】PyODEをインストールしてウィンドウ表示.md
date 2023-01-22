@@ -1,7 +1,7 @@
 ---
 title: "【Python】PyODEをインストールしてウィンドウ表示"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

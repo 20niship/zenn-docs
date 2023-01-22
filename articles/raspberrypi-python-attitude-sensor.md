@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry Pi】MPU-6050を使って姿勢角算出（Python編）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

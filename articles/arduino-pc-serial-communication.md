@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】PC と Arduino でシリアル通信"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

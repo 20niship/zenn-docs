@@ -1,7 +1,7 @@
 ---
 title: "【C++/OpenCV】スクリーンキャプチャした映像を表示 or 動画ファイルとして保存"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

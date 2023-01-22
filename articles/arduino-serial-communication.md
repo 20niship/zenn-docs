@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】シリアル通信の方法"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

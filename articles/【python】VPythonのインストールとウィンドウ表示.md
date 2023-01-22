@@ -1,7 +1,7 @@
 ---
 title: "【python】VPythonのインストールとウィンドウ表示"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

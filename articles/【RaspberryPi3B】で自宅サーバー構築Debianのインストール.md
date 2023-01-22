@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry Pi 3B】で自宅サーバー構築  Debianのインストール"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

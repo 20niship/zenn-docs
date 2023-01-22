@@ -1,7 +1,7 @@
 ---
 title: "数Ⅲ【数列の極限】NO.1　数列の極限ってそもそも何だろうか？"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

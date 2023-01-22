@@ -1,7 +1,7 @@
 ---
 title: "便利なAndroidアプリ TOP10"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

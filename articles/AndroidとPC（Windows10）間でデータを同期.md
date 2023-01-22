@@ -1,7 +1,7 @@
 ---
 title: "Android と PC（Windows10） 間でデータを同期"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

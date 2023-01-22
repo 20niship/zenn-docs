@@ -1,7 +1,7 @@
 ---
 title: "【C言語】NO.1 VisualStudio のインストール"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

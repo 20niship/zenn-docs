@@ -1,7 +1,7 @@
 ---
 title: "Hopfield Networkの考え方とPythonプログラム"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

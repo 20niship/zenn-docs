@@ -1,7 +1,7 @@
 ---
 title: "【Python】PythonでExcelファイルの読み書き"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

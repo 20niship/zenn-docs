@@ -1,7 +1,7 @@
 ---
 title: "【HDL】モジュールの記述方法1"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

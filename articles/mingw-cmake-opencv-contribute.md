@@ -1,7 +1,7 @@
 ---
 title: "【C++】MinGW (g++)とCMakeでOpenCVとopencv-contributeをビルドする（Windows）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

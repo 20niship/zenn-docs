@@ -1,7 +1,7 @@
 ---
 title: "【Arduino】シリアル通信で複数のデータを送受信する　第2段！（精度向上！？）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

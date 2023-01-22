@@ -1,7 +1,7 @@
 ---
 title: "【Arduino＆Pmod NAV】地磁気センサからヨー軸算出"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

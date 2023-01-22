@@ -1,7 +1,7 @@
 ---
 title: "【C++/MinGW】FreeTypeを使ってTTFファイルから文字レンダリング"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

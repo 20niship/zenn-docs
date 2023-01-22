@@ -1,7 +1,7 @@
 ---
 title: "【Python】STLファイルを読み込んで表示する（numpy-stl）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

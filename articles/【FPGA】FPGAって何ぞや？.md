@@ -1,7 +1,7 @@
 ---
 title: "【FPGA】FPGAって何ぞや？"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---

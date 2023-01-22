@@ -1,7 +1,7 @@
 ---
 title: "「Raspberry Pi Zero WH ボード＆ケースセット」の開封レビュー！"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

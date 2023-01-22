@@ -1,7 +1,7 @@
 ---
 title: "【Python】PyOpenGLのインストールからウィンドウ表示まで"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

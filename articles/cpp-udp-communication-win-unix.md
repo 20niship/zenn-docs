@@ -1,7 +1,7 @@
 ---
 title: "【C++】UDP通信を実装する（Windows/Linux環境）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

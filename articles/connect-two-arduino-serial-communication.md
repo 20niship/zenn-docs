@@ -1,8 +1,8 @@
 ---
 title: "【Arduino】２台のAruduinoをシリアル通信させる"
-emoji: ""
-type: ""
-topics: []
+emoji: "🤖"
+type: "tech"
+topics: ["arduino","cpp"]
 published: false
 ---
 
@@ -26,6 +26,7 @@ published: false
 
 ### 送信側：
 
+```cpp
 int LED = 13;
 int count = 0;
 
@@ -44,9 +45,11 @@ void loop(){
   }
   delay(1000);
 }
+```
 
 #### 受信側：
 
+```cpp
 int LED = 13;
 
 void setup(){
@@ -65,6 +68,7 @@ void loop(){
     delay(10);
   }
 }
+```
 
 ### 3\. 実行結果
 

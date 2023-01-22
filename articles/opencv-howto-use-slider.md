@@ -1,7 +1,7 @@
 ---
 title: "【C++】OpenCV標準のスライダーを使用する"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【Raspberry Pi】MPU-6050から加速度とジャイロと気温データを取得（Python編）"
-emoji: ""
-type: ""
+emoji: "🤖"
+type: "tech"
 topics: undefined
 published: false
 ---
