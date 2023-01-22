@@ -3,7 +3,7 @@ title: "test article"
 emoji: "😸" 
 type: "tech" 
 topics: [] 
-published: true # 公開設定（falseにすると下書き）
+published: false # 公開設定（falseにすると下書き）
 ---
 
 
