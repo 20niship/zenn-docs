@@ -1,0 +1,11 @@
+{
+  "name": "zenn-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:20niship/zenn-docs.git",
+  "author": "20niship <idcnishimiya5378gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.137"
+  }
+}
