@@ -1,0 +1,7 @@
+title: "C++とOpenGLの基礎サンプル集"
+summary: "本の紹介文"
+topics: ["cpp", "opengl", "graphics"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-about-pic

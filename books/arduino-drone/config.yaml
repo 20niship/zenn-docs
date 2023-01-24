@@ -1,0 +1,14 @@
+title: "Arduinoドローン製作日記"
+summary: "Arduinoでドローンを作ってみました"
+topics: ["cpp", "m5stack"] 
+published: false
+price: 0
+chapters:
+  - 1-parts
+  - 2-frame
+  - 3-circuit
+  - 4-controller
+  - 5-software
+  - 6-pid
+  - 7-pid-gain
+  - 8-thrust-test
