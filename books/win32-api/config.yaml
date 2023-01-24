@@ -1,0 +1,7 @@
+title: "Windows 32 Application samples"
+summary: "本の紹介文"
+topics: ["cpp", "ui"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-about-pic
