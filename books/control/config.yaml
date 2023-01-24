@@ -1,0 +1,7 @@
+title: "制御理論"
+summary: "古典制御から現代制御まで解説したい、、、、"
+topics: ["cpp", "opengl", "graphics"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - dynamic-progeramming-python.md

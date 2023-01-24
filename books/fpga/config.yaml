@@ -1,0 +1,17 @@
+title: "C++とOpenGLの基礎サンプル集"
+summary: "本の紹介文"
+topics: ["cpp", "opengl", "graphics"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-cpp-opengl-hello-triangle
+  - 2-cpp-opengl-grammary
+  - 3-cpp-opengl-multiple-rectangles
+  - 4-cpp-opengl-glfw-callback
+  - 5-cpp-opengl-matirx
+  - 6-cpp-opengl-texture
+  - 7-cpp-opengl-texture-with-alpha
+  - 8-cpp-opengl-font-windows
+  - 9-cpp-opengl-to-cv-mat
+  - 10-cpp-opengl-ascii-text-rendering
+  - 11-cpp-opengl-particle
