@@ -1,0 +1,7 @@
+title: "C++(たまにPython)とOpenCVのサンプル集"
+summary: "本の紹介文"
+topics: ["cpp", "opencv", "python"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-python-opencv-object-detection.md

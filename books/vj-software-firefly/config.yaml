@@ -1,0 +1,8 @@
+title: "Firefly"
+summary: "本の紹介文"
+topics: ["cpp", "opencv", "python"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-introduction.md
+  - 2-script.md

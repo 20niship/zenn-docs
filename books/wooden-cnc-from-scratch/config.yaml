@@ -1,0 +1,14 @@
+title: "木製CNCの製作"
+summary: "本の紹介文"
+topics: ["cpp", "opencv", "python"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-what-is-cnc.md
+  - 2-mechanic.md
+  - 3-circuit.md
+  - 4-about-stepper-motor.md
+  - 5-stepper-motor-control.md
+  - 6-run.md
+  - 7-paper.md
+  

@@ -1,0 +1,14 @@
+title: "Pygameでゲームを作る"
+summary: "古典制御から現代制御まで解説したい、、、、"
+topics: ["cpp", "opengl", "graphics"] # トピック（5つまで）
+published: false
+price: 0
+chapters:
+  - 1-hello-world.md
+  - 2-draw-primitives.md
+  - 3-draw-image.md
+  - 4-button.md
+  - 5-draw-text.md
+  - 6-mouse-input.md
+  - 7-keyboard-input.md
+  - 8-bgm.md
