@@ -59,35 +59,9 @@ PythonでExcelファイルを扱うことのできるライブラリは、主に
 
 両方、**pip** を使ってインストールすることができます。
 
-#### xlwtのインストール
-
-コマンドプロンプトで以下の命令を実行してください。
-
-pip install xlwt
-
-その後、Pythonで
-
-import xlwt
-
-を実行し、エラーが出なければ成功です。  
-  
-#### xlrdのインストール
-
-コマンドプロンプトで以下の命令を実行してください。
-
-pip install xlrd
-
-その後、Pythonで
-
-import xlrd
-
-を実行し、エラーが出なければ成功です。  
-  
-#### openpyxl のインストール
-
-コマンドプロンプトで以下の命令を実行してください。
-
-pip install openpyxl 
+- xlwt : `pip install xlwt`
+- xlrd : `pip install xlrd`
+- openpyxl : `pip install openpyxl `
 
 その後、Pythonで
 

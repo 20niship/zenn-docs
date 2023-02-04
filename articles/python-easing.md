@@ -31,7 +31,7 @@ AviUtlの場合はイージングの番号を指定することで、イージ�
 下のプログラムを実行すると、以下の様なGIFアニメーションが作成されます。  
 ![f:id:pythonjacascript:20200823151130g:plain](/images/ppythonjacascript2020082320200823151130.gif "f:id:pythonjacascript:20200823151130g:plain")
 
-
+```py
 def sampleFunc(time, begin, change, duration):
   return -change * (( time / duration - 1)**4- 1) + begin
 
@@ -66,7 +66,7 @@ class Easing_Simulator:
 sim = Easing_Simulator()
 sim.save()
 #sim.show()
-
+```
   
 円のx座標がsampleFunc関数の値によって制御されています。sampleFuncは、t=0の時のｘ座標をstart, t = durationの時のｘ座標をendとして時刻tにおけるｘ座標を出力する関数です。この関数を変えることによってさまざまなイージングを表現することができます。（例はこの記事の下の方）  
   
@@ -75,6 +75,7 @@ sim.save()
 下のプログラムを実行すると、横軸が時刻、縦軸がイージング値のグラフがプロットされます。  
 ![f:id:pythonjacascript:20200823160150j:plain](/images/ppythonjacascript2020082320200823160150.jpg "f:id:pythonjacascript:20200823160150j:plain")  
 
+```py
 def sampleFunc(time, begin, change, duration):
   return -change * (( time / duration - 1)**4- 1) + begin
 
@@ -96,10 +97,12 @@ class graph_plot:
 
 P = graph_plot()
 P.plot()
+```
 
 ### いろいろなイージング
 
 ![f:id:pythonjacascript:20200823163413j:plain](/images/ppythonjacascript2020082320200823163413.jpg "f:id:pythonjacascript:20200823163413j:plain")  
+```py
 
 from math import *
 
@@ -247,7 +250,7 @@ def outInBounce(time, begin, change, duration):
     return outBounce(time * 2, begin, change / 2, duration)
   else:
     return inBounce((time * 2) - duration, begin + change / 2, change / 2, duration)
-  
+```
   
 ### 参考文献
 
